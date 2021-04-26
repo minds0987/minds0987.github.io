@@ -1,5 +1,5 @@
 # @minds0987 wp
-- 👋 Hi, I’m @minds0987
+- 👋 Hi, We are @minds0987
 - 💻 dev.to: https://dev.to/minds0987
 - 💻 hashnode.dev: https://creativeminds0987.hashnode.dev/
 - 👀 I’m interested in html, css, js, python and firebase
